@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/devgoyalg" target="blank"><img src="https://img.shields.io/twitter/follow/devgoyalg?logo=twitter&style=for-the-badge" alt="devgoyalg" /></a> </p>
 
-- 🐍 I'm **Python** coder.
+- 🐍 I'm **Python & Java** coder.
 
-- 🌐 Learning **Web Development**
+- 🌐 Learning **Web Development & DSA**
 
-- 💻 3⭐ on **HackerRank** in **Python**
+- 💻 3⭐ on **HackerRank** in **Python & Java**
 
 - 📫 Feel free to contact me : **devgoyalg2346@gmail.com**
 

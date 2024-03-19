@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
 
-- 💻 **3⭐** on **HackerRank** in **Python & Java**
+- 💻 **3⭐** on **HackerRank** in **Python, Java & SQL**
 
 - 👨‍💻 **1⭐** on **CodeChef**
 

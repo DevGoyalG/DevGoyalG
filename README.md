@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dev Goyal</h1>
 <h3 align="center">Learn To Write Code!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akkisoni9648&label=Profile%20views&color=0e75b6&style=flat" alt="devgoyalg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevGoyalG&label=Profile%20views&color=0e75b6&style=flat" alt="devgoyalg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devgoyalg" alt="devgoyalg" /></a> </p>
+## &nbsp;🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevGoyalG&theme=algolia)](https://github.com/DevGoyalG/github-profile-trophy)
 
+## 👨‍💻  &nbsp;About Me 
 - 🐍♨️ I'm **Python & Java** coder
-
 - 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
-
 - 💻 **3⭐** on **HackerRank** in **Python, Java & SQL**
-
 - 👨‍💻 **1⭐** on **CodeChef**
-
 - 📫 Feel free to contact me : **devgoyalg2346@gmail.com**
-
 - ⚡ Fun fact **I am Singer and Writer**
 
-<h3 align="left">Connect with me:</h3>
+ ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
   
@@ -29,7 +26,7 @@
 
 </p>
 
-<h3 align="left">My Coding Profiles:</h3>
+ ## 💻 &nbsp;My Coding Profiles
 
 <p align="left">
 
@@ -40,7 +37,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 &nbsp;Tech Stack
 
 <p align="left"> 
 
@@ -53,10 +50,16 @@
 </p>
 
 <p>
-  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devgoyalg&show_icons=true&locale=en&layout=compact" alt="devgoyalg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devgoyalg&show_icons=true&locale=en" alt="devgoyalg" /></p>
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/DevGoyalG">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevGoyalG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevGoyalG&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devgoyalg&" alt="devgoyalg" /></p>
 

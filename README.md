@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevGoyalG&label=Profile%20views&color=0e75b6&style=flat" alt="devgoyalg" /> </p>
 
-## &nbsp;🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevGoyalG&theme=algolia)](https://github.com/DevGoyalG/github-profile-trophy)
-
 ## 👨‍💻  &nbsp;About Me 
 - 🐍♨️ I'm **Python & Java** coder
 - 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
@@ -50,6 +47,9 @@
 </p>
 
 <p>
+
+## &nbsp;🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevGoyalG&theme=algolia)](https://github.com/DevGoyalG/github-profile-trophy)
 
 ## ⚙️ &nbsp;GitHub Analytics
 

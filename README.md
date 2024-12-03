@@ -10,7 +10,7 @@
 ## 👨‍💻  &nbsp;About Me 
 - 🐍♨️ I'm **Python & Java** coder
 - 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
-- 💻 **3⭐** on **HackerRank** in **Python, Java & SQL**
+- 💻 **5⭐** on **HackerRank** in **Python, Java & SQL**
 - 👨‍💻 **1⭐** on **CodeChef**
 - 📫 Feel free to contact me : **devgoyalg2346@gmail.com**
 - ⚡ Fun fact **I am Singer and Writer**

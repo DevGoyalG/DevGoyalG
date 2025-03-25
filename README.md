@@ -28,6 +28,22 @@
 
 </p> -->
 
+## 📂 My Latest Projects
+
+### 1️⃣ **JobGeniusAI - AI Career Coach**  
+🎯 An AI-powered career coach that helps users with resume building, interview preparation, and job insights.
+
+- **Tech Stack:** Next.js, Vite, Tailwind CSS, Shadcn, Neon, Clerk, Gemini API 
+- **Live Demo:** [JobGeniusAI](https://jobgeniusai.vercel.app/)  
+
+---
+
+### 2️⃣ **ShrinkURLs - Custom URL Shortener**  
+🔗 A simple and efficient URL shortener that allows users to create and manage custom short links.
+
+- **Tech Stack:** React.js, Vite, Tailwind CSS, Shadcn, Supabase, API  
+- **Live Demo:** [ShrinkURLs](https://shrinkurls.vercel.app/)  
+
  ## 💻 &nbsp;My Coding Profiles
 
 <p align="left">

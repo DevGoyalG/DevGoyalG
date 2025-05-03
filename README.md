@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Dev Goyal </h1>  
+<!-- <h1 align="center">Hi 👋, I'm Dev Goyal </h1>  -->
 <!-- <h3 align="center">Learn To Write Code!</h3> ...-->
 <!-- 45 -->
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Dev Goyal</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Front+End+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Always%20learning%20new%20things!&center=true&width=380&height=45"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevGoyalG&label=Profile%20views&color=0e75b6&style=flat" alt="devgoyalg" /> </p>
 
 ## 👨‍💻  &nbsp;About Me 
-- 🐍♨️ I'm **Frontend Developer**
-- 🌱 I’m currently learning **Data Structure and Algorithm & Full Stack Web Development**
-- 💻 **5⭐** on **HackerRank** in **Python, Java & SQL**
-- 👨‍💻 **1⭐** on **CodeChef**
-- 📫 Feel free to contact me : **devgoyalg2346@gmail.com**
-- ⚡ Fun fact **I am Singer and Writer**
+- I'm **Frontend Developer**
+- **5⭐** on **HackerRank** in **Python, Java & SQL**
+- **1⭐** on **CodeChef**
+- LeetCode Max Ratings: **1549**
+- Achieved **Global rank 10,121** in Leetcode Biweekly Contest 136
+- **6K+ Followers** & **80K+ Impressions** on **LinkedIn** 🚀
+- Feel free to contact me : **devgoyalg2346@gmail.com**
 
- <!-- ## 🤝🏻 &nbsp;Connect with Me
+<!-- ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
 
@@ -27,6 +29,47 @@
 <a href="https://discord.com/users/devgoyalg" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="devgoyalg" height="30" width="40" /></a>
 
 </p> -->
+
+<!--
+<h2>💻 Experience  </h2>
+
+| | | <h3>Organization</h3> | <h3>Skills</h3> | <h3>Type</h3> | <h3>TimeLine</h3> |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| SDE Intern | <img src="https://marketplace-static.miro.com/zluri.svg" width="30" height="30"/> | [SwapSo.io](https://www.swapso.io/) | ```React``` ```MongoDB``` <br> ```SASS``` ```TailwindCSS```  | Internship | Jul 24 - Dec 24 |
+| Android Developer | <img src="https://ibb.co/m8JN3sN" width="30" height="30"/> | [Amnaya Nexus](https://play.google.com/store/apps/dev?id=5614603653501802440) | ```Android``` ```Kotlin``` <br> ```XML``` ```Debugging```  | Freelancing | Oct 23 - Apr 24 |
+| Teaching Assistant | <img src="https://files.codingninjas.in/0000000000000723.jpg" width="30" height="30"/> | [Coding Ninjas](https://www.codingninjas.com/) | ```Data Structures``` ```Algorithms``` <br> ```C++``` ```Debugging```  ```Mentoring ``` | Internship | Dec 22 - Apr 23 |
+| Freelancing | <img src="https://pbs.twimg.com/profile_images/1453339438029869059/Mpk9QXje_400x400.jpg" width="30" height="30"/> | [Fiverr](https://www.fiverr.com/) | ```Android Development``` ```Android``` <br> ```Java``` ```Firebase```  | Freelancing | Mar 22 - Sep 22 |
+-->
+
+<!--
+<h2>📚 Academic  </h2>
+
+| | |  || | 
+|-----------|-----------|-----------|-----------|-----------|
+| B Tech (CSE-AIML) | <img src="https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp" width="30" height="30"/> |Noida Institute of Engineering and Technology  | 8.46 CGPA | Nov 22 - Currenat |
+| 10+2 (PCM) | <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/West_Bengal_Council_of_Higher_Secondary_Education_Logo.png" width="30" height="30"/> | Shri Satyanarayan Inter College | 79% | April 18 - June 20 |
+| 10  | <img src="https://wbbse.wb.gov.in/img/logo.png" width="30" height="30"/> | Shri Satyanarayan Inter College | 89.5% | April 16 - Feb 18 |
+-->
+
+<!--
+<h2 align="left">🙎‍♂️ Position of Responsibility</h2>
+
+- Cloud Facilitator of GEN AI Study Jams 2024 of GDG NIET
+- Core Team member at GDG NIET (2024-25)
+- Core Team member at GFG NIET (2023-24)
+
+<br>
+-->
+<!--
+<br>
+
+<h2>⚙️ Projects  </h2>
+
+| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
+|-----------|-----------|-----------|-----------|-----------|
+| GitHub Peek - View and Follow | [Code](https://github.com/maityamit/Github-Peek-Android-App) | ```Android``` ```Java``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=githubpeekbyamit.example.githubpeek) | Sep 22 - Jan 23 |
+| Sleepometer : Track your sleep | [Code](https://github.com/maityamit/Sleepometer-Android-App) | ```Android``` ```Java``` | [Demo-PlayStore](https://play.google.com/store/apps/details?id=sleepometerbyamitmaity.example.sleepometer) | Jul 22 - Sep 22 |
+-->
 
 ## 📂 My Latest Projects
 

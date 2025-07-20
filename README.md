@@ -16,7 +16,7 @@
 - LeetCode Max Ratings: **1549**
 - Achieved **Rank 12** in **Coding Ninjas Beginner Contest 5**
 - Achieved **Global rank 10,121** in **Leetcode Biweekly Contest 136**
-- **6K+ Followers** & **80K+ Impressions** on **LinkedIn** 🚀
+- **7K+ Followers** & **80K+ Impressions** on **LinkedIn** 🚀
 - Feel free to contact me : **devgoyalg2346@gmail.com**
 
 <!-- ## 🤝🏻 &nbsp;Connect with Me

@@ -198,8 +198,13 @@
 <p>
 -->
 
+<!--
 ## &nbsp;🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=DevGoyalG&theme=algolia)](https://github.com/DevGoyalG/github-profile-trophy)
+-->
+
+## &nbsp;🏆 GitHub Profile Trophy
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=DevGoyalG&theme=algolia)](https://github.com/DevGoyalG/github-profile-trophy)
 
 ## 📊 Github Stats
 
